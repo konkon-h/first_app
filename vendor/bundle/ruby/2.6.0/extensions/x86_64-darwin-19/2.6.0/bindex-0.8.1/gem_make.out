@@ -1,0 +1,15 @@
+current directory: /Users/tech-camp/Desktop/techcamp_ver2.0/projects/first_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/tech-camp/.rbenv/versions/2.6.5/bin/ruby -I /Users/tech-camp/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210211-50575-1rnmh9v.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tech-camp/Desktop/techcamp_ver2.0/projects/first_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/tech-camp/Desktop/techcamp_ver2.0/projects/first_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/tech-camp/Desktop/techcamp_ver2.0/projects/first_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210211-50575-1h55ug8/skiptrace/internal
